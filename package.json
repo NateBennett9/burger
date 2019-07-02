@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "burger app",
+  "main": "index.js",
+  "scripts": {
+    "test": "init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateBennett9/burger.git"
+  },
+  "keywords": [
+    "burger",
+    "app"
+  ],
+  "author": "Nate Bennett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateBennett9/burger/issues"
+  },
+  "homepage": "https://github.com/NateBennett9/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
